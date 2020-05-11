@@ -2,7 +2,7 @@
 from RPS_singleplayer import *
 from RPS_multiplayer import *
 
-#   main method
+#   main methods
 
 
 def main_runner():

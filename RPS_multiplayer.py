@@ -1,5 +1,5 @@
 #   Start Multi player function
-
+#
 
 # set up scores
 mplayer1 = 0
